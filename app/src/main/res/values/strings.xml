@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestHidingHeader</string>
+    <string name="action_settings">Settings</string>
+</resources>
